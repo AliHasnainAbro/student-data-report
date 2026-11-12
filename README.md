@@ -67,4 +67,4 @@ GitHub: [https://github.com/FahadHassan315](https://github.com/FahadHassan315)
 **Ali Hasnain Abro**  
 Email: [aliabro2004@gmail.com](mailto:aliabro2004@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/alihasnainabro](https://www.linkedin.com/in/alihasnainabro)  
-GitHub: [https://github.com/FahadHassan315](https://github.com/AliHasnainAbro)
+GitHub: [https://github.com/AliHasnainAbro](https://github.com/AliHasnainAbro)
